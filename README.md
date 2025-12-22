@@ -1,4 +1,4 @@
-# Hi, I'm Praachi 👋
+# Hi, I'm Prachi 👋
 
 🎓 BTech Computer Science & Engineering ’28 at IIIT Bhopal  
 💻 Aspiring Software Developer  
