@@ -2,7 +2,7 @@
 
 🎓 BTech Computer Science & Engineering ’28 at IIIT Bhopal  
 💻 Aspiring Software Developer  
-⭐ 2★ CodeChef (Max Rating: 1515)
+⭐ 2★ CodeChef
 
 ## 🔧 Skills
 - C++
@@ -21,8 +21,7 @@
 - Participant – Smart India Hackathon (College Level)
 
 ## 📊 Coding Profiles
-- LinkedIn: https://www.linkedin.com/in/prachi-patidar-904b2b324  
-- CodeChef: https://www.codechef.com/users/prachi24_49
+- LinkedIn: https://www.linkedin.com/in/prachi-patidar-904b2b324 
 
 ## 🌱 Currently Focusing On
 - Strengthening problem-solving skills using C++
