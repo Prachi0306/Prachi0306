@@ -26,4 +26,4 @@
 ## 🌱 Currently Focusing On
 - Strengthening problem-solving skills using C++
 - Improving DSA and competitive programming
-- Learning full-stack web development concepts
+- Learning full-stack web development concepts.
