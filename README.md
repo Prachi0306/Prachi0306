@@ -21,7 +21,8 @@
 - Participant – Smart India Hackathon (College Level)
 
 ## 📊 Coding Profiles
-- LinkedIn: https://www.linkedin.com/in/prachi-patidar-904b2b324 
+- LinkedIn: https://www.linkedin.com/in/prachi-patidar-904b2b324
+- Portfolio: https://prachi0306.github.io/Portfolio/
 
 ## 🌱 Currently Focusing On
 - Strengthening problem-solving skills using C++
