@@ -1,30 +1,56 @@
-# Hi, I'm Prachi 👋
+# Hi, I'm Prachi Patidar 👋
 
-🎓 BTech Computer Science & Engineering ’28 at IIIT Bhopal  
-💻 Aspiring Software Developer  
-⭐ 2★ CodeChef
+🎓 B.Tech in Computer Science & Engineering (2028) | IIIT Bhopal  
+💻 Aspiring Software Development Engineer  
+⭐ CodeChef 2★ (Max Rating: 1560)
 
-## 🔧 Skills
-- C++
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- HTML
-- JavaScript (Learning)
-- React (Learning)
-- Node.js (Learning)
+---
 
-## 🏆 Experience & Activities
-- Event Coordinator @ GDG IIIT Bhopal  
-- Open Source Contributor – Hacktoberfest 2025  
-- Team Lead – HackIndore 3.0  
-- Team Lead (Shortlisted) – Hackatron  
+## 🚀 Technical Skills
+
+**Programming Languages:** C++, C, JavaScript
+
+**Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
+
+**Frontend:** HTML, CSS, JavaScript, React.js
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** MongoDB
+
+**Tools:** Git, GitHub, VS Code
+
+---
+
+## 🏆 Experience & Leadership
+
+- Web Development Intern @ InAmigos
+- Event Coordinator @ GDG IIIT Bhopal
+- Open Source Contributor – Hacktoberfest 2025
+- Team Lead – HackIndore 3.0
+- Team Lead (Shortlisted) – Hackatron
 - Participant – Smart India Hackathon (College Level)
 
-## 📊 Coding Profiles
+---
+
+## 💻 Coding Profiles
+
+- LeetCode: https://leetcode.com/u/prachi_24_49/
+- CodeChef: https://www.codechef.com/users/prachi24_49
+- Codeforces: https://codeforces.com/profile/PrachiPatidar
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Competitive Programming
+- Full-Stack Web Development
+- Backend Development with Node.js & Express.js
+
+---
+
+## 🔗 Connect With Me
+
 - LinkedIn: https://www.linkedin.com/in/prachi-patidar-904b2b324
 - Portfolio: https://prachi0306.github.io/Portfolio/
-
-## 🌱 Currently Focusing On
-- Strengthening problem-solving skills using C++
-- Improving DSA and competitive programming
-- Learning full-stack web development concepts.
