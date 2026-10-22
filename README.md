@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Computer Science & Engineering (2028) | IIIT Bhopal  
 💻 Aspiring Software Development Engineer  
-⭐ CodeChef 2★ (Max Rating: 1560)
+⭐ CodeChef 3★ (Max Rating: 1665)
 
 ---
 
@@ -24,11 +24,13 @@
 
 ## 🏆 Experience & Leadership
 
-- Web Development Intern @ InAmigos
+- SDE (full-stack) intern @ Calyp Innovations
+- Ex - Web Development Intern @ InAmigos Foundation
 - Event Coordinator @ GDG IIIT Bhopal
 - Open Source Contributor – Hacktoberfest 2025
 - Team Lead – HackIndore 3.0
 - Team Lead (Shortlisted) – Hackatron
+- Hackasagon (Shortlisted) - National level Hackathon
 - Participant – Smart India Hackathon (College Level)
 
 ---
